@@ -34,3 +34,5 @@ This is a plants species list of CCNU.
 其他原则：
 
 1.花果期包括裸子植物的孢子叶球和种子。
+
+2.将演化树和物种分开存储，以便于fork到其他学校。
